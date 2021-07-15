@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="polter_assets.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="downpolt0000" x="0" y="0" width="523" height="548" pivotX="257.2" pivotY="288.35"/>
+	<SubTexture name="downpolt0001" x="0" y="0" width="523" height="548"/>
+	<SubTexture name="downpolt0002" x="523" y="0" width="523" height="548"/>
+	<SubTexture name="downpolt0003" x="523" y="0" width="523" height="548"/>
+	<SubTexture name="downpolt0004" x="1046" y="0" width="523" height="548"/>
+	<SubTexture name="downpolt0005" x="1046" y="0" width="523" height="548"/>
+	<SubTexture name="downpolt0006" x="1046" y="0" width="523" height="548"/>
+	<SubTexture name="downpolt0007" x="1046" y="0" width="523" height="548"/>
+	<SubTexture name="downpolt0008" x="1046" y="0" width="523" height="548"/>
+	<SubTexture name="downpolt0009" x="1046" y="0" width="523" height="548"/>
+	<SubTexture name="downpolt0010" x="1046" y="0" width="523" height="548"/>
+	<SubTexture name="downpolt0011" x="1046" y="0" width="523" height="548"/>
+	<SubTexture name="downpolt0012" x="1046" y="0" width="523" height="548"/>
+	<SubTexture name="downpolt0013" x="1046" y="0" width="523" height="548"/>
+	<SubTexture name="downpolt0014" x="1046" y="0" width="523" height="548"/>
+	<SubTexture name="idlepolt0000" x="1569" y="0" width="563" height="590" pivotX="280.25" pivotY="309.3"/>
+	<SubTexture name="idlepolt0001" x="1569" y="0" width="563" height="590"/>
+	<SubTexture name="idlepolt0002" x="2132" y="0" width="563" height="590"/>
+	<SubTexture name="idlepolt0003" x="2132" y="0" width="563" height="590"/>
+	<SubTexture name="idlepolt0004" x="2695" y="0" width="563" height="590"/>
+	<SubTexture name="idlepolt0005" x="2695" y="0" width="563" height="590"/>
+	<SubTexture name="idlepolt0006" x="3258" y="0" width="563" height="590"/>
+	<SubTexture name="idlepolt0007" x="3258" y="0" width="563" height="590"/>
+	<SubTexture name="idlepolt0008" x="0" y="590" width="563" height="590"/>
+	<SubTexture name="idlepolt0009" x="0" y="590" width="563" height="590"/>
+	<SubTexture name="idlepolt0010" x="563" y="590" width="563" height="590"/>
+	<SubTexture name="idlepolt0011" x="563" y="590" width="563" height="590"/>
+	<SubTexture name="idlepolt0012" x="1126" y="590" width="563" height="590"/>
+	<SubTexture name="idlepolt0013" x="1126" y="590" width="563" height="590"/>
+	<SubTexture name="idlepolt0014" x="1126" y="590" width="563" height="590"/>
+	<SubTexture name="leftpolt0000" x="1689" y="590" width="525" height="551" pivotX="261.75" pivotY="299.3"/>
+	<SubTexture name="leftpolt0001" x="1689" y="590" width="525" height="551"/>
+	<SubTexture name="leftpolt0002" x="2214" y="590" width="525" height="551"/>
+	<SubTexture name="leftpolt0003" x="2214" y="590" width="525" height="551"/>
+	<SubTexture name="leftpolt0004" x="2739" y="590" width="525" height="551"/>
+	<SubTexture name="leftpolt0005" x="2739" y="590" width="525" height="551"/>
+	<SubTexture name="leftpolt0006" x="2739" y="590" width="525" height="551"/>
+	<SubTexture name="leftpolt0007" x="2739" y="590" width="525" height="551"/>
+	<SubTexture name="leftpolt0008" x="2739" y="590" width="525" height="551"/>
+	<SubTexture name="leftpolt0009" x="2739" y="590" width="525" height="551"/>
+	<SubTexture name="leftpolt0010" x="2739" y="590" width="525" height="551"/>
+	<SubTexture name="leftpolt0011" x="2739" y="590" width="525" height="551"/>
+	<SubTexture name="leftpolt0012" x="2739" y="590" width="525" height="551"/>
+	<SubTexture name="leftpolt0013" x="2739" y="590" width="525" height="551"/>
+	<SubTexture name="leftpolt0014" x="2739" y="590" width="525" height="551"/>
+	<SubTexture name="rightpolt0000" x="3264" y="590" width="544" height="571" pivotX="271.05" pivotY="301"/>
+	<SubTexture name="rightpolt0001" x="3264" y="590" width="544" height="571"/>
+	<SubTexture name="rightpolt0002" x="0" y="1180" width="544" height="571"/>
+	<SubTexture name="rightpolt0003" x="0" y="1180" width="544" height="571"/>
+	<SubTexture name="rightpolt0004" x="544" y="1180" width="544" height="571"/>
+	<SubTexture name="rightpolt0005" x="544" y="1180" width="544" height="571"/>
+	<SubTexture name="rightpolt0006" x="544" y="1180" width="544" height="571"/>
+	<SubTexture name="rightpolt0007" x="544" y="1180" width="544" height="571"/>
+	<SubTexture name="rightpolt0008" x="544" y="1180" width="544" height="571"/>
+	<SubTexture name="rightpolt0009" x="544" y="1180" width="544" height="571"/>
+	<SubTexture name="rightpolt0010" x="544" y="1180" width="544" height="571"/>
+	<SubTexture name="rightpolt0011" x="544" y="1180" width="544" height="571"/>
+	<SubTexture name="rightpolt0012" x="544" y="1180" width="544" height="571"/>
+	<SubTexture name="rightpolt0013" x="544" y="1180" width="544" height="571"/>
+	<SubTexture name="rightpolt0014" x="544" y="1180" width="544" height="571"/>
+	<SubTexture name="uppolt0000" x="1088" y="1180" width="545" height="572" pivotX="271.65" pivotY="300.35"/>
+	<SubTexture name="uppolt0001" x="1088" y="1180" width="545" height="572"/>
+	<SubTexture name="uppolt0002" x="1633" y="1180" width="545" height="572"/>
+	<SubTexture name="uppolt0003" x="1633" y="1180" width="545" height="572"/>
+	<SubTexture name="uppolt0004" x="2178" y="1180" width="545" height="572"/>
+	<SubTexture name="uppolt0005" x="2178" y="1180" width="545" height="572"/>
+	<SubTexture name="uppolt0006" x="2178" y="1180" width="545" height="572"/>
+	<SubTexture name="uppolt0007" x="2178" y="1180" width="545" height="572"/>
+	<SubTexture name="uppolt0008" x="2178" y="1180" width="545" height="572"/>
+	<SubTexture name="uppolt0009" x="2178" y="1180" width="545" height="572"/>
+	<SubTexture name="uppolt0010" x="2178" y="1180" width="545" height="572"/>
+	<SubTexture name="uppolt0011" x="2178" y="1180" width="545" height="572"/>
+	<SubTexture name="uppolt0012" x="2178" y="1180" width="545" height="572"/>
+	<SubTexture name="uppolt0013" x="2178" y="1180" width="545" height="572"/>
+	<SubTexture name="uppolt0014" x="2178" y="1180" width="545" height="572"/>
+</TextureAtlas>

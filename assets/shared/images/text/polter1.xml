@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="polter1.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="textbox instance 10000" x="0" y="0" width="1282" height="746" pivotX="245.85" pivotY="174.3"/>
+	<SubTexture name="textbox instance 10001" x="0" y="0" width="1282" height="746"/>
+	<SubTexture name="textbox instance 10002" x="1282" y="0" width="1282" height="746"/>
+	<SubTexture name="textbox instance 10003" x="1282" y="0" width="1282" height="746"/>
+	<SubTexture name="textbox instance 10004" x="2564" y="0" width="1282" height="746"/>
+	<SubTexture name="textbox instance 10005" x="2564" y="0" width="1282" height="746"/>
+	<SubTexture name="textbox instance 10006" x="2564" y="0" width="1282" height="746"/>
+	<SubTexture name="textbox instance 10007" x="2564" y="0" width="1282" height="746"/>
+	<SubTexture name="textbox instance 10008" x="2564" y="0" width="1282" height="746"/>
+	<SubTexture name="textbox instance 10009" x="2564" y="0" width="1282" height="746"/>
+	<SubTexture name="textbox instance 10010" x="2564" y="0" width="1282" height="746"/>
+	<SubTexture name="textbox instance 10011" x="2564" y="0" width="1282" height="746"/>
+	<SubTexture name="textbox instance 10012" x="2564" y="0" width="1282" height="746"/>
+	<SubTexture name="textbox instance 10013" x="2564" y="0" width="1282" height="746"/>
+	<SubTexture name="textbox instance 10014" x="2564" y="0" width="1282" height="746"/>
+	<SubTexture name="textbox instance 10015" x="2564" y="0" width="1282" height="746"/>
+	<SubTexture name="textbox instance 10016" x="2564" y="0" width="1282" height="746"/>
+	<SubTexture name="textbox instance 10017" x="2564" y="0" width="1282" height="746"/>
+	<SubTexture name="textbox instance 10018" x="2564" y="0" width="1282" height="746"/>
+	<SubTexture name="textbox instance 10019" x="2564" y="0" width="1282" height="746"/>
+	<SubTexture name="textbox instance 10020" x="2564" y="0" width="1282" height="746"/>
+	<SubTexture name="textbox instance 10021" x="2564" y="0" width="1282" height="746"/>
+</TextureAtlas>

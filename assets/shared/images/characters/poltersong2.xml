@@ -1,0 +1,237 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="poltersong2.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="breakpolt0000" x="0" y="0" width="640" height="590" pivotX="280.3" pivotY="309.3"/>
+	<SubTexture name="breakpolt0001" x="640" y="0" width="640" height="590"/>
+	<SubTexture name="breakpolt0002" x="1280" y="0" width="640" height="590"/>
+	<SubTexture name="breakpolt0003" x="1920" y="0" width="640" height="590"/>
+	<SubTexture name="breakpolt0004" x="2560" y="0" width="640" height="590"/>
+	<SubTexture name="breakpolt0005" x="3200" y="0" width="640" height="590"/>
+	<SubTexture name="breakpolt0006" x="3840" y="0" width="640" height="590"/>
+	<SubTexture name="breakpolt0007" x="4480" y="0" width="640" height="590"/>
+	<SubTexture name="breakpolt0008" x="5120" y="0" width="640" height="590"/>
+	<SubTexture name="breakpolt0009" x="5760" y="0" width="640" height="590"/>
+	<SubTexture name="breakpolt0010" x="6400" y="0" width="640" height="590"/>
+	<SubTexture name="breakpolt0011" x="7040" y="0" width="640" height="590"/>
+	<SubTexture name="breakpolt0012" x="0" y="590" width="640" height="590"/>
+	<SubTexture name="breakpolt0013" x="640" y="590" width="640" height="590"/>
+	<SubTexture name="breakpolt0014" x="1280" y="590" width="640" height="590"/>
+	<SubTexture name="breakpolt0015" x="1920" y="590" width="640" height="590"/>
+	<SubTexture name="breakpolt0016" x="2560" y="590" width="640" height="590"/>
+	<SubTexture name="breakpolt0017" x="3200" y="590" width="640" height="590"/>
+	<SubTexture name="breakpolt0018" x="3840" y="590" width="640" height="590"/>
+	<SubTexture name="breakpolt0019" x="4480" y="590" width="640" height="590"/>
+	<SubTexture name="breakpolt0020" x="5120" y="590" width="640" height="590"/>
+	<SubTexture name="breakpolt0021" x="5760" y="590" width="640" height="590"/>
+	<SubTexture name="breakpolt0022" x="6400" y="590" width="640" height="590"/>
+	<SubTexture name="breakpolt0023" x="7040" y="590" width="640" height="590"/>
+	<SubTexture name="breakpolt0024" x="0" y="1180" width="640" height="590"/>
+	<SubTexture name="breakpolt0025" x="640" y="1180" width="640" height="590"/>
+	<SubTexture name="breakpolt0026" x="1280" y="1180" width="640" height="590"/>
+	<SubTexture name="breakpolt0027" x="1920" y="1180" width="640" height="590"/>
+	<SubTexture name="breakpolt0028" x="2560" y="1180" width="640" height="590"/>
+	<SubTexture name="breakpolt0029" x="3200" y="1180" width="640" height="590"/>
+	<SubTexture name="breakpolt0030" x="3840" y="1180" width="640" height="590"/>
+	<SubTexture name="breakpolt0031" x="4480" y="1180" width="640" height="590"/>
+	<SubTexture name="breakpolt0032" x="5120" y="1180" width="640" height="590"/>
+	<SubTexture name="breakpolt0033" x="5760" y="1180" width="640" height="590"/>
+	<SubTexture name="breakpolt0034" x="6400" y="1180" width="640" height="590"/>
+	<SubTexture name="breakpolt0035" x="7040" y="1180" width="640" height="590"/>
+	<SubTexture name="breakpolt0036" x="0" y="1770" width="640" height="590"/>
+	<SubTexture name="breakpolt0037" x="640" y="1770" width="640" height="590"/>
+	<SubTexture name="breakpolt0038" x="1280" y="1770" width="640" height="590"/>
+	<SubTexture name="breakpolt0039" x="1920" y="1770" width="640" height="590"/>
+	<SubTexture name="breakpolt0040" x="2560" y="1770" width="640" height="590"/>
+	<SubTexture name="breakpolt0041" x="3200" y="1770" width="640" height="590"/>
+	<SubTexture name="breakpolt0042" x="3840" y="1770" width="640" height="590"/>
+	<SubTexture name="breakpolt0043" x="4480" y="1770" width="640" height="590"/>
+	<SubTexture name="breakpolt0044" x="5120" y="1770" width="640" height="590"/>
+	<SubTexture name="breakpolt0045" x="5760" y="1770" width="640" height="590"/>
+	<SubTexture name="breakpolt0046" x="6400" y="1770" width="640" height="590"/>
+	<SubTexture name="breakpolt0047" x="7040" y="1770" width="640" height="590"/>
+	<SubTexture name="breakpolt0048" x="0" y="2360" width="640" height="590"/>
+	<SubTexture name="breakpolt0049" x="0" y="2360" width="640" height="590"/>
+	<SubTexture name="breakpolt0050" x="640" y="2360" width="640" height="590"/>
+	<SubTexture name="breakpolt0051" x="640" y="2360" width="640" height="590"/>
+	<SubTexture name="breakpolt0052" x="1280" y="2360" width="640" height="590"/>
+	<SubTexture name="breakpolt0053" x="1280" y="2360" width="640" height="590"/>
+	<SubTexture name="breakpolt0054" x="1920" y="2360" width="640" height="590"/>
+	<SubTexture name="breakpolt0055" x="1920" y="2360" width="640" height="590"/>
+	<SubTexture name="breakpolt0056" x="2560" y="2360" width="640" height="590"/>
+	<SubTexture name="breakpolt0057" x="2560" y="2360" width="640" height="590"/>
+	<SubTexture name="breakpolt0058" x="3200" y="2360" width="640" height="590"/>
+	<SubTexture name="breakpolt0059" x="3840" y="2360" width="640" height="590"/>
+	<SubTexture name="breakpolt0060" x="3840" y="2360" width="640" height="590"/>
+	<SubTexture name="breakpolt0061" x="4480" y="2360" width="640" height="590"/>
+	<SubTexture name="breakpolt0062" x="4480" y="2360" width="640" height="590"/>
+	<SubTexture name="breakpolt0063" x="5120" y="2360" width="640" height="590"/>
+	<SubTexture name="breakpolt0064" x="5120" y="2360" width="640" height="590"/>
+	<SubTexture name="breakpolt0065" x="5120" y="2360" width="640" height="590"/>
+	<SubTexture name="breakpolt0066" x="5120" y="2360" width="640" height="590"/>
+	<SubTexture name="breakpolt0067" x="5120" y="2360" width="640" height="590"/>
+	<SubTexture name="breakpolt0068" x="5120" y="2360" width="640" height="590"/>
+	<SubTexture name="breakpolt0069" x="5120" y="2360" width="640" height="590"/>
+	<SubTexture name="breakpolt0070" x="5120" y="2360" width="640" height="590"/>
+	<SubTexture name="breakpolt0071" x="5120" y="2360" width="640" height="590"/>
+	<SubTexture name="breakpolt0072" x="5120" y="2360" width="640" height="590"/>
+	<SubTexture name="breakpolt0073" x="5120" y="2360" width="640" height="590"/>
+	<SubTexture name="breakpolt0074" x="5120" y="2360" width="640" height="590"/>
+	<SubTexture name="breakpolt0075" x="5120" y="2360" width="640" height="590"/>
+	<SubTexture name="breakpolt0076" x="5120" y="2360" width="640" height="590"/>
+	<SubTexture name="breakpolt0077" x="5120" y="2360" width="640" height="590"/>
+	<SubTexture name="breakpolt0078" x="5120" y="2360" width="640" height="590"/>
+	<SubTexture name="breakpolt0079" x="5120" y="2360" width="640" height="590"/>
+	<SubTexture name="breakpolt0080" x="5120" y="2360" width="640" height="590"/>
+	<SubTexture name="breakpolt0081" x="5120" y="2360" width="640" height="590"/>
+	<SubTexture name="downbroke0000" x="5760" y="2360" width="649" height="590" pivotX="280.3" pivotY="309.3"/>
+	<SubTexture name="downbroke0001" x="5760" y="2360" width="649" height="590"/>
+	<SubTexture name="downbroke0002" x="6409" y="2360" width="649" height="590"/>
+	<SubTexture name="downbroke0003" x="6409" y="2360" width="649" height="590"/>
+	<SubTexture name="downbroke0004" x="7058" y="2360" width="649" height="590"/>
+	<SubTexture name="downbroke0005" x="7058" y="2360" width="649" height="590"/>
+	<SubTexture name="downbroke0006" x="6409" y="2360" width="649" height="590"/>
+	<SubTexture name="downbroke0007" x="6409" y="2360" width="649" height="590"/>
+	<SubTexture name="downbroke0008" x="7058" y="2360" width="649" height="590"/>
+	<SubTexture name="downbroke0009" x="7058" y="2360" width="649" height="590"/>
+	<SubTexture name="downbroke0010" x="6409" y="2360" width="649" height="590"/>
+	<SubTexture name="downbroke0011" x="6409" y="2360" width="649" height="590"/>
+	<SubTexture name="downbroke0012" x="7058" y="2360" width="649" height="590"/>
+	<SubTexture name="downbroke0013" x="7058" y="2360" width="649" height="590"/>
+	<SubTexture name="downbroke0014" x="6409" y="2360" width="649" height="590"/>
+	<SubTexture name="downpolt0000" x="0" y="2950" width="594" height="548" pivotX="257.25" pivotY="288.35"/>
+	<SubTexture name="downpolt0001" x="0" y="2950" width="594" height="548"/>
+	<SubTexture name="downpolt0002" x="594" y="2950" width="594" height="548"/>
+	<SubTexture name="downpolt0003" x="594" y="2950" width="594" height="548"/>
+	<SubTexture name="downpolt0004" x="1188" y="2950" width="594" height="548"/>
+	<SubTexture name="downpolt0005" x="1188" y="2950" width="594" height="548"/>
+	<SubTexture name="downpolt0006" x="1188" y="2950" width="594" height="548"/>
+	<SubTexture name="downpolt0007" x="1188" y="2950" width="594" height="548"/>
+	<SubTexture name="downpolt0008" x="1188" y="2950" width="594" height="548"/>
+	<SubTexture name="downpolt0009" x="1188" y="2950" width="594" height="548"/>
+	<SubTexture name="downpolt0010" x="1188" y="2950" width="594" height="548"/>
+	<SubTexture name="downpolt0011" x="1188" y="2950" width="594" height="548"/>
+	<SubTexture name="downpolt0012" x="1188" y="2950" width="594" height="548"/>
+	<SubTexture name="downpolt0013" x="1188" y="2950" width="594" height="548"/>
+	<SubTexture name="downpolt0014" x="1188" y="2950" width="594" height="548"/>
+	<SubTexture name="idlebroke0000" x="1782" y="2950" width="640" height="590" pivotX="280.3" pivotY="309.3"/>
+	<SubTexture name="idlebroke0001" x="1782" y="2950" width="640" height="590"/>
+	<SubTexture name="idlebroke0002" x="2422" y="2950" width="640" height="590"/>
+	<SubTexture name="idlebroke0003" x="2422" y="2950" width="640" height="590"/>
+	<SubTexture name="idlebroke0004" x="3062" y="2950" width="640" height="590"/>
+	<SubTexture name="idlebroke0005" x="3062" y="2950" width="640" height="590"/>
+	<SubTexture name="idlebroke0006" x="3702" y="2950" width="640" height="590"/>
+	<SubTexture name="idlebroke0007" x="3702" y="2950" width="640" height="590"/>
+	<SubTexture name="idlebroke0008" x="3702" y="2950" width="640" height="590"/>
+	<SubTexture name="idlebroke0009" x="3702" y="2950" width="640" height="590"/>
+	<SubTexture name="idlebroke0010" x="4342" y="2950" width="640" height="590"/>
+	<SubTexture name="idlebroke0011" x="4342" y="2950" width="640" height="590"/>
+	<SubTexture name="idlebroke0012" x="4982" y="2950" width="640" height="590"/>
+	<SubTexture name="idlebroke0013" x="5120" y="2360" width="640" height="590"/>
+	<SubTexture name="idlebroke0014" x="5120" y="2360" width="640" height="590"/>
+	<SubTexture name="idlepolt0000" x="5622" y="2950" width="640" height="590" pivotX="280.3" pivotY="309.3"/>
+	<SubTexture name="idlepolt0001" x="5622" y="2950" width="640" height="590"/>
+	<SubTexture name="idlepolt0002" x="6262" y="2950" width="640" height="590"/>
+	<SubTexture name="idlepolt0003" x="6262" y="2950" width="640" height="590"/>
+	<SubTexture name="idlepolt0004" x="6902" y="2950" width="640" height="590"/>
+	<SubTexture name="idlepolt0005" x="6902" y="2950" width="640" height="590"/>
+	<SubTexture name="idlepolt0006" x="7542" y="2950" width="640" height="590"/>
+	<SubTexture name="idlepolt0007" x="7542" y="2950" width="640" height="590"/>
+	<SubTexture name="idlepolt0008" x="0" y="3540" width="640" height="590"/>
+	<SubTexture name="idlepolt0009" x="0" y="3540" width="640" height="590"/>
+	<SubTexture name="idlepolt0010" x="640" y="3540" width="640" height="590"/>
+	<SubTexture name="idlepolt0011" x="640" y="3540" width="640" height="590"/>
+	<SubTexture name="idlepolt0012" x="1280" y="3540" width="640" height="590"/>
+	<SubTexture name="idlepolt0013" x="1280" y="3540" width="640" height="590"/>
+	<SubTexture name="idlepolt0014" x="1280" y="3540" width="640" height="590"/>
+	<SubTexture name="leftbroke0000" x="1920" y="3540" width="640" height="590" pivotX="280.3" pivotY="309.3"/>
+	<SubTexture name="leftbroke0001" x="1920" y="3540" width="640" height="590"/>
+	<SubTexture name="leftbroke0002" x="2560" y="3540" width="640" height="590"/>
+	<SubTexture name="leftbroke0003" x="2560" y="3540" width="640" height="590"/>
+	<SubTexture name="leftbroke0004" x="3200" y="3540" width="640" height="590"/>
+	<SubTexture name="leftbroke0005" x="3200" y="3540" width="640" height="590"/>
+	<SubTexture name="leftbroke0006" x="2560" y="3540" width="640" height="590"/>
+	<SubTexture name="leftbroke0007" x="2560" y="3540" width="640" height="590"/>
+	<SubTexture name="leftbroke0008" x="3200" y="3540" width="640" height="590"/>
+	<SubTexture name="leftbroke0009" x="3200" y="3540" width="640" height="590"/>
+	<SubTexture name="leftbroke0010" x="2560" y="3540" width="640" height="590"/>
+	<SubTexture name="leftbroke0011" x="2560" y="3540" width="640" height="590"/>
+	<SubTexture name="leftbroke0012" x="3200" y="3540" width="640" height="590"/>
+	<SubTexture name="leftbroke0013" x="3200" y="3540" width="640" height="590"/>
+	<SubTexture name="leftbroke0014" x="2560" y="3540" width="640" height="590"/>
+	<SubTexture name="leftpolt0000" x="3840" y="3540" width="598" height="551" pivotX="261.8" pivotY="299.3"/>
+	<SubTexture name="leftpolt0001" x="3840" y="3540" width="598" height="551"/>
+	<SubTexture name="leftpolt0002" x="4438" y="3540" width="598" height="551"/>
+	<SubTexture name="leftpolt0003" x="4438" y="3540" width="598" height="551"/>
+	<SubTexture name="leftpolt0004" x="5036" y="3540" width="598" height="551"/>
+	<SubTexture name="leftpolt0005" x="5036" y="3540" width="598" height="551"/>
+	<SubTexture name="leftpolt0006" x="5036" y="3540" width="598" height="551"/>
+	<SubTexture name="leftpolt0007" x="5036" y="3540" width="598" height="551"/>
+	<SubTexture name="leftpolt0008" x="5036" y="3540" width="598" height="551"/>
+	<SubTexture name="leftpolt0009" x="5036" y="3540" width="598" height="551"/>
+	<SubTexture name="leftpolt0010" x="5036" y="3540" width="598" height="551"/>
+	<SubTexture name="leftpolt0011" x="5036" y="3540" width="598" height="551"/>
+	<SubTexture name="leftpolt0012" x="5036" y="3540" width="598" height="551"/>
+	<SubTexture name="leftpolt0013" x="5036" y="3540" width="598" height="551"/>
+	<SubTexture name="leftpolt0014" x="5036" y="3540" width="598" height="551"/>
+	<SubTexture name="rightbroke0000" x="5634" y="3540" width="649" height="590" pivotX="280.3" pivotY="309.3"/>
+	<SubTexture name="rightbroke0001" x="5634" y="3540" width="649" height="590"/>
+	<SubTexture name="rightbroke0002" x="6283" y="3540" width="641" height="590" frameX="0" frameY="0" frameWidth="649" frameHeight="590"/>
+	<SubTexture name="rightbroke0003" x="6283" y="3540" width="641" height="590" frameX="0" frameY="0" frameWidth="649" frameHeight="590"/>
+	<SubTexture name="rightbroke0004" x="6283" y="3540" width="641" height="590" frameX="0" frameY="0" frameWidth="649" frameHeight="590"/>
+	<SubTexture name="rightbroke0005" x="6283" y="3540" width="641" height="590" frameX="0" frameY="0" frameWidth="649" frameHeight="590"/>
+	<SubTexture name="rightbroke0006" x="6283" y="3540" width="641" height="590" frameX="0" frameY="0" frameWidth="649" frameHeight="590"/>
+	<SubTexture name="rightbroke0007" x="6283" y="3540" width="641" height="590" frameX="0" frameY="0" frameWidth="649" frameHeight="590"/>
+	<SubTexture name="rightbroke0008" x="6283" y="3540" width="641" height="590" frameX="0" frameY="0" frameWidth="649" frameHeight="590"/>
+	<SubTexture name="rightbroke0009" x="6283" y="3540" width="641" height="590" frameX="0" frameY="0" frameWidth="649" frameHeight="590"/>
+	<SubTexture name="rightbroke0010" x="6283" y="3540" width="641" height="590" frameX="0" frameY="0" frameWidth="649" frameHeight="590"/>
+	<SubTexture name="rightbroke0011" x="6283" y="3540" width="641" height="590" frameX="0" frameY="0" frameWidth="649" frameHeight="590"/>
+	<SubTexture name="rightbroke0012" x="6283" y="3540" width="641" height="590" frameX="0" frameY="0" frameWidth="649" frameHeight="590"/>
+	<SubTexture name="rightbroke0013" x="6283" y="3540" width="641" height="590" frameX="0" frameY="0" frameWidth="649" frameHeight="590"/>
+	<SubTexture name="rightbroke0014" x="6283" y="3540" width="641" height="590" frameX="0" frameY="0" frameWidth="649" frameHeight="590"/>
+	<SubTexture name="rightpolt0000" x="6924" y="3540" width="619" height="571" pivotX="271.05" pivotY="301"/>
+	<SubTexture name="rightpolt0001" x="6924" y="3540" width="619" height="571"/>
+	<SubTexture name="rightpolt0002" x="7543" y="3540" width="619" height="571"/>
+	<SubTexture name="rightpolt0003" x="7543" y="3540" width="619" height="571"/>
+	<SubTexture name="rightpolt0004" x="0" y="4130" width="619" height="571"/>
+	<SubTexture name="rightpolt0005" x="0" y="4130" width="619" height="571"/>
+	<SubTexture name="rightpolt0006" x="0" y="4130" width="619" height="571"/>
+	<SubTexture name="rightpolt0007" x="0" y="4130" width="619" height="571"/>
+	<SubTexture name="rightpolt0008" x="0" y="4130" width="619" height="571"/>
+	<SubTexture name="rightpolt0009" x="0" y="4130" width="619" height="571"/>
+	<SubTexture name="rightpolt0010" x="0" y="4130" width="619" height="571"/>
+	<SubTexture name="rightpolt0011" x="0" y="4130" width="619" height="571"/>
+	<SubTexture name="rightpolt0012" x="0" y="4130" width="619" height="571"/>
+	<SubTexture name="rightpolt0013" x="0" y="4130" width="619" height="571"/>
+	<SubTexture name="rightpolt0014" x="0" y="4130" width="619" height="571"/>
+	<SubTexture name="upbroke0000" x="619" y="4130" width="649" height="590" pivotX="280.3" pivotY="309.3"/>
+	<SubTexture name="upbroke0001" x="619" y="4130" width="649" height="590"/>
+	<SubTexture name="upbroke0002" x="1268" y="4130" width="649" height="590"/>
+	<SubTexture name="upbroke0003" x="1268" y="4130" width="649" height="590"/>
+	<SubTexture name="upbroke0004" x="1268" y="4130" width="649" height="590"/>
+	<SubTexture name="upbroke0005" x="1268" y="4130" width="649" height="590"/>
+	<SubTexture name="upbroke0006" x="1268" y="4130" width="649" height="590"/>
+	<SubTexture name="upbroke0007" x="1268" y="4130" width="649" height="590"/>
+	<SubTexture name="upbroke0008" x="1268" y="4130" width="649" height="590"/>
+	<SubTexture name="upbroke0009" x="1268" y="4130" width="649" height="590"/>
+	<SubTexture name="upbroke0010" x="1268" y="4130" width="649" height="590"/>
+	<SubTexture name="upbroke0011" x="1268" y="4130" width="649" height="590"/>
+	<SubTexture name="upbroke0012" x="1268" y="4130" width="649" height="590"/>
+	<SubTexture name="upbroke0013" x="1268" y="4130" width="649" height="590"/>
+	<SubTexture name="upbroke0014" x="1268" y="4130" width="649" height="590"/>
+	<SubTexture name="uppolt0000" x="1917" y="4130" width="620" height="572" pivotX="271.7" pivotY="300.35"/>
+	<SubTexture name="uppolt0001" x="1917" y="4130" width="620" height="572"/>
+	<SubTexture name="uppolt0002" x="2537" y="4130" width="620" height="572"/>
+	<SubTexture name="uppolt0003" x="2537" y="4130" width="620" height="572"/>
+	<SubTexture name="uppolt0004" x="3157" y="4130" width="620" height="572"/>
+	<SubTexture name="uppolt0005" x="3157" y="4130" width="620" height="572"/>
+	<SubTexture name="uppolt0006" x="3157" y="4130" width="620" height="572"/>
+	<SubTexture name="uppolt0007" x="3157" y="4130" width="620" height="572"/>
+	<SubTexture name="uppolt0008" x="3157" y="4130" width="620" height="572"/>
+	<SubTexture name="uppolt0009" x="3157" y="4130" width="620" height="572"/>
+	<SubTexture name="uppolt0010" x="3157" y="4130" width="620" height="572"/>
+	<SubTexture name="uppolt0011" x="3157" y="4130" width="620" height="572"/>
+	<SubTexture name="uppolt0012" x="3157" y="4130" width="620" height="572"/>
+	<SubTexture name="uppolt0013" x="3157" y="4130" width="620" height="572"/>
+	<SubTexture name="uppolt0014" x="3157" y="4130" width="620" height="572"/>
+</TextureAtlas>

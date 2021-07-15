@@ -1,0 +1,187 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="poltersong3.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="downpolt0000" x="0" y="0" width="553" height="718" pivotX="270.45" pivotY="415.2"/>
+	<SubTexture name="downpolt0001" x="553" y="0" width="553" height="718"/>
+	<SubTexture name="downpolt0002" x="1106" y="0" width="553" height="696" frameX="0" frameY="0" frameWidth="553" frameHeight="718"/>
+	<SubTexture name="downpolt0003" x="1659" y="0" width="553" height="696" frameX="0" frameY="0" frameWidth="553" frameHeight="718"/>
+	<SubTexture name="downpolt0004" x="2212" y="0" width="553" height="714" frameX="0" frameY="0" frameWidth="553" frameHeight="718"/>
+	<SubTexture name="downpolt0005" x="2212" y="0" width="553" height="714" frameX="0" frameY="0" frameWidth="553" frameHeight="718"/>
+	<SubTexture name="downpolt0006" x="2212" y="0" width="553" height="714" frameX="0" frameY="0" frameWidth="553" frameHeight="718"/>
+	<SubTexture name="downpolt0007" x="2212" y="0" width="553" height="714" frameX="0" frameY="0" frameWidth="553" frameHeight="718"/>
+	<SubTexture name="downpolt0008" x="2212" y="0" width="553" height="714" frameX="0" frameY="0" frameWidth="553" frameHeight="718"/>
+	<SubTexture name="downpolt0009" x="2212" y="0" width="553" height="714" frameX="0" frameY="0" frameWidth="553" frameHeight="718"/>
+	<SubTexture name="downpolt0010" x="2212" y="0" width="553" height="714" frameX="0" frameY="0" frameWidth="553" frameHeight="718"/>
+	<SubTexture name="downpolt0011" x="2212" y="0" width="553" height="714" frameX="0" frameY="0" frameWidth="553" frameHeight="718"/>
+	<SubTexture name="downpolt0012" x="2212" y="0" width="553" height="714" frameX="0" frameY="0" frameWidth="553" frameHeight="718"/>
+	<SubTexture name="downpolt0013" x="2212" y="0" width="553" height="714" frameX="0" frameY="0" frameWidth="553" frameHeight="718"/>
+	<SubTexture name="fadepolt0000" x="2765" y="0" width="553" height="701" pivotX="270.45" pivotY="415.2" frameX="0" frameY="0" frameWidth="553" frameHeight="715"/>
+	<SubTexture name="fadepolt0001" x="2765" y="0" width="553" height="701" frameX="0" frameY="0" frameWidth="553" frameHeight="715"/>
+	<SubTexture name="fadepolt0002" x="3318" y="0" width="553" height="701" frameX="0" frameY="0" frameWidth="553" frameHeight="715"/>
+	<SubTexture name="fadepolt0003" x="3318" y="0" width="553" height="701" frameX="0" frameY="0" frameWidth="553" frameHeight="715"/>
+	<SubTexture name="fadepolt0004" x="3871" y="0" width="553" height="696" frameX="0" frameY="0" frameWidth="553" frameHeight="715"/>
+	<SubTexture name="fadepolt0005" x="3871" y="0" width="553" height="696" frameX="0" frameY="0" frameWidth="553" frameHeight="715"/>
+	<SubTexture name="fadepolt0006" x="4424" y="0" width="553" height="701" frameX="0" frameY="0" frameWidth="553" frameHeight="715"/>
+	<SubTexture name="fadepolt0007" x="4424" y="0" width="553" height="701" frameX="0" frameY="0" frameWidth="553" frameHeight="715"/>
+	<SubTexture name="fadepolt0008" x="4977" y="0" width="553" height="701" frameX="0" frameY="0" frameWidth="553" frameHeight="715"/>
+	<SubTexture name="fadepolt0009" x="4977" y="0" width="553" height="701" frameX="0" frameY="0" frameWidth="553" frameHeight="715"/>
+	<SubTexture name="fadepolt0010" x="5530" y="0" width="553" height="696" frameX="0" frameY="0" frameWidth="553" frameHeight="715"/>
+	<SubTexture name="fadepolt0011" x="5530" y="0" width="553" height="696" frameX="0" frameY="0" frameWidth="553" frameHeight="715"/>
+	<SubTexture name="fadepolt0012" x="6083" y="0" width="553" height="701" frameX="0" frameY="0" frameWidth="553" frameHeight="715"/>
+	<SubTexture name="fadepolt0013" x="6083" y="0" width="553" height="701" frameX="0" frameY="0" frameWidth="553" frameHeight="715"/>
+	<SubTexture name="fadepolt0014" x="4424" y="0" width="553" height="701" frameX="0" frameY="0" frameWidth="553" frameHeight="715"/>
+	<SubTexture name="fadepolt0015" x="4424" y="0" width="553" height="701" frameX="0" frameY="0" frameWidth="553" frameHeight="715"/>
+	<SubTexture name="fadepolt0016" x="5530" y="3577" width="553" height="701"/>
+	<SubTexture name="fadepolt0017" x="6636" y="0" width="553" height="706" frameX="0" frameY="0" frameWidth="553" frameHeight="715"/>
+	<SubTexture name="fadepolt0018" x="7189" y="0" width="553" height="708" frameX="0" frameY="0" frameWidth="553" frameHeight="715"/>
+	<SubTexture name="fadepolt0019" x="0" y="718" width="553" height="709" frameX="0" frameY="0" frameWidth="553" frameHeight="715"/>
+	<SubTexture name="fadepolt0020" x="553" y="718" width="553" height="710" frameX="0" frameY="0" frameWidth="553" frameHeight="715"/>
+	<SubTexture name="fadepolt0021" x="1106" y="718" width="553" height="710" frameX="0" frameY="0" frameWidth="553" frameHeight="715"/>
+	<SubTexture name="fadepolt0022" x="1659" y="718" width="553" height="711" frameX="0" frameY="0" frameWidth="553" frameHeight="715"/>
+	<SubTexture name="fadepolt0023" x="2212" y="718" width="553" height="711" frameX="0" frameY="0" frameWidth="553" frameHeight="715"/>
+	<SubTexture name="fadepolt0024" x="2765" y="718" width="553" height="712" frameX="0" frameY="0" frameWidth="553" frameHeight="715"/>
+	<SubTexture name="fadepolt0025" x="3318" y="718" width="553" height="712" frameX="0" frameY="0" frameWidth="553" frameHeight="715"/>
+	<SubTexture name="fadepolt0026" x="3871" y="718" width="553" height="713" frameX="0" frameY="0" frameWidth="553" frameHeight="715"/>
+	<SubTexture name="fadepolt0027" x="4424" y="718" width="553" height="713" frameX="0" frameY="0" frameWidth="553" frameHeight="715"/>
+	<SubTexture name="fadepolt0028" x="4977" y="718" width="553" height="712" frameX="0" frameY="0" frameWidth="553" frameHeight="715"/>
+	<SubTexture name="fadepolt0029" x="5530" y="718" width="553" height="713" frameX="0" frameY="0" frameWidth="553" frameHeight="715"/>
+	<SubTexture name="fadepolt0030" x="6083" y="718" width="553" height="713" frameX="0" frameY="0" frameWidth="553" frameHeight="715"/>
+	<SubTexture name="fadepolt0031" x="6636" y="718" width="553" height="713" frameX="0" frameY="0" frameWidth="553" frameHeight="715"/>
+	<SubTexture name="fadepolt0032" x="7189" y="718" width="553" height="714" frameX="0" frameY="0" frameWidth="553" frameHeight="715"/>
+	<SubTexture name="fadepolt0033" x="0" y="1432" width="553" height="714" frameX="0" frameY="0" frameWidth="553" frameHeight="715"/>
+	<SubTexture name="fadepolt0034" x="553" y="1432" width="553" height="714" frameX="0" frameY="0" frameWidth="553" frameHeight="715"/>
+	<SubTexture name="fadepolt0035" x="1106" y="1432" width="553" height="714" frameX="0" frameY="0" frameWidth="553" frameHeight="715"/>
+	<SubTexture name="fadepolt0036" x="1659" y="1432" width="553" height="714" frameX="0" frameY="0" frameWidth="553" frameHeight="715"/>
+	<SubTexture name="fadepolt0037" x="2212" y="1432" width="553" height="714" frameX="0" frameY="0" frameWidth="553" frameHeight="715"/>
+	<SubTexture name="fadepolt0038" x="2765" y="1432" width="553" height="714" frameX="0" frameY="0" frameWidth="553" frameHeight="715"/>
+	<SubTexture name="fadepolt0039" x="3318" y="1432" width="553" height="714" frameX="0" frameY="0" frameWidth="553" frameHeight="715"/>
+	<SubTexture name="fadepolt0040" x="3871" y="1432" width="553" height="715"/>
+	<SubTexture name="fadepolt0041" x="4424" y="1432" width="553" height="715"/>
+	<SubTexture name="fadepolt0042" x="4977" y="1432" width="553" height="714" frameX="0" frameY="0" frameWidth="553" frameHeight="715"/>
+	<SubTexture name="fadepolt0043" x="5530" y="1432" width="553" height="714" frameX="0" frameY="0" frameWidth="553" frameHeight="715"/>
+	<SubTexture name="fadepolt0044" x="6083" y="1432" width="553" height="714" frameX="0" frameY="0" frameWidth="553" frameHeight="715"/>
+	<SubTexture name="fadepolt0045" x="6636" y="1432" width="553" height="715"/>
+	<SubTexture name="fadepolt0046" x="7189" y="1432" width="553" height="715"/>
+	<SubTexture name="fadepolt0047" x="0" y="2147" width="553" height="715"/>
+	<SubTexture name="fadepolt0048" x="553" y="2147" width="553" height="715"/>
+	<SubTexture name="fadepolt0049" x="1106" y="2147" width="553" height="715"/>
+	<SubTexture name="fadepolt0050" x="1659" y="2147" width="553" height="715"/>
+	<SubTexture name="fadepolt0051" x="2212" y="2147" width="553" height="715"/>
+	<SubTexture name="fadepolt0052" x="2765" y="2147" width="553" height="714" frameX="0" frameY="0" frameWidth="553" frameHeight="715"/>
+	<SubTexture name="fadepolt0053" x="3318" y="2147" width="553" height="714" frameX="0" frameY="0" frameWidth="553" frameHeight="715"/>
+	<SubTexture name="fadepolt0054" x="3871" y="2147" width="553" height="715"/>
+	<SubTexture name="fadepolt0055" x="4424" y="2147" width="553" height="715"/>
+	<SubTexture name="fadepolt0056" x="4977" y="2147" width="553" height="715"/>
+	<SubTexture name="fadepolt0057" x="5530" y="2147" width="553" height="715"/>
+	<SubTexture name="fadepolt0058" x="6083" y="2147" width="553" height="715"/>
+	<SubTexture name="fadepolt0059" x="6636" y="2147" width="553" height="715"/>
+	<SubTexture name="fadepolt0060" x="7189" y="2147" width="553" height="715"/>
+	<SubTexture name="fadepolt0061" x="0" y="2862" width="553" height="715"/>
+	<SubTexture name="fadepolt0062" x="0" y="2862" width="553" height="715"/>
+	<SubTexture name="fadepolt0063" x="553" y="2862" width="553" height="715"/>
+	<SubTexture name="fadepolt0064" x="553" y="2862" width="553" height="715"/>
+	<SubTexture name="fadepolt0065" x="553" y="2862" width="553" height="715"/>
+	<SubTexture name="fadepolt0066" x="553" y="2862" width="553" height="715"/>
+	<SubTexture name="fadepolt0067" x="553" y="2862" width="553" height="715"/>
+	<SubTexture name="fadepolt0068" x="553" y="2862" width="553" height="715"/>
+	<SubTexture name="fadepolt0069" x="553" y="2862" width="553" height="715"/>
+	<SubTexture name="fadepolt0070" x="1106" y="2862" width="553" height="715"/>
+	<SubTexture name="fadepolt0071" x="1659" y="2862" width="553" height="715"/>
+	<SubTexture name="fadepolt0072" x="2212" y="2862" width="553" height="715"/>
+	<SubTexture name="fadepolt0073" x="2765" y="2862" width="553" height="715"/>
+	<SubTexture name="fadepolt0074" x="3318" y="2862" width="553" height="715"/>
+	<SubTexture name="fadepolt0075" x="3871" y="2862" width="553" height="715"/>
+	<SubTexture name="fadepolt0076" x="4424" y="2862" width="553" height="715"/>
+	<SubTexture name="fadepolt0077" x="4977" y="2862" width="553" height="715"/>
+	<SubTexture name="fadepolt0078" x="5530" y="2862" width="553" height="715"/>
+	<SubTexture name="fadepolt0079" x="6083" y="2862" width="553" height="715"/>
+	<SubTexture name="fadepolt0080" x="5530" y="2862" width="553" height="715"/>
+	<SubTexture name="fadepolt0081" x="5530" y="2862" width="553" height="715"/>
+	<SubTexture name="fadepolt0082" x="6636" y="2862" width="553" height="715"/>
+	<SubTexture name="fadepolt0083" x="7189" y="2862" width="553" height="715"/>
+	<SubTexture name="fadepolt0084" x="0" y="3577" width="553" height="715"/>
+	<SubTexture name="fadepolt0085" x="553" y="3577" width="553" height="715"/>
+	<SubTexture name="fadepolt0086" x="1106" y="3577" width="553" height="715"/>
+	<SubTexture name="fadepolt0087" x="1659" y="3577" width="553" height="715"/>
+	<SubTexture name="fadepolt0088" x="1106" y="3577" width="553" height="715"/>
+	<SubTexture name="fadepolt0089" x="1106" y="3577" width="553" height="715"/>
+	<SubTexture name="fadepolt0090" x="2212" y="3577" width="553" height="715"/>
+	<SubTexture name="fadepolt0091" x="2765" y="3577" width="553" height="715"/>
+	<SubTexture name="fadepolt0092" x="2212" y="3577" width="553" height="715"/>
+	<SubTexture name="fadepolt0093" x="2212" y="3577" width="553" height="715"/>
+	<SubTexture name="fadepolt0094" x="2212" y="3577" width="553" height="715"/>
+	<SubTexture name="fadepolt0095" x="2212" y="3577" width="553" height="715"/>
+	<SubTexture name="fadepolt0096" x="3318" y="3577" width="553" height="715"/>
+	<SubTexture name="fadepolt0097" x="3871" y="3577" width="553" height="715"/>
+	<SubTexture name="fadepolt0098" x="3318" y="3577" width="553" height="715"/>
+	<SubTexture name="fadepolt0099" x="3318" y="3577" width="553" height="715"/>
+	<SubTexture name="fadepolt0100" x="3318" y="3577" width="553" height="715"/>
+	<SubTexture name="fadepolt0101" x="3318" y="3577" width="553" height="715"/>
+	<SubTexture name="fadepolt0102" x="3318" y="3577" width="553" height="715"/>
+	<SubTexture name="fadepolt0103" x="3318" y="3577" width="553" height="715"/>
+	<SubTexture name="fadepolt0104" x="3318" y="3577" width="553" height="715"/>
+	<SubTexture name="fadepolt0105" x="3318" y="3577" width="553" height="715"/>
+	<SubTexture name="fadepolt0106" x="4424" y="3577" width="553" height="715"/>
+	<SubTexture name="fadepolt0107" x="4977" y="3577" width="553" height="715"/>
+	<SubTexture name="fadepolt0108" x="4977" y="3577" width="553" height="715"/>
+	<SubTexture name="fadepolt0109" x="3318" y="3577" width="553" height="715"/>
+	<SubTexture name="fadepolt0110" x="3318" y="3577" width="553" height="715"/>
+	<SubTexture name="fadepolt0111" x="3318" y="3577" width="553" height="715"/>
+	<SubTexture name="idlepolt0000" x="5530" y="3577" width="553" height="701" pivotX="270.45" pivotY="415.2"/>
+	<SubTexture name="idlepolt0001" x="6083" y="3577" width="553" height="701"/>
+	<SubTexture name="idlepolt0002" x="6636" y="3577" width="553" height="698" frameX="0" frameY="0" frameWidth="553" frameHeight="701"/>
+	<SubTexture name="idlepolt0003" x="6636" y="3577" width="553" height="698" frameX="0" frameY="0" frameWidth="553" frameHeight="701"/>
+	<SubTexture name="idlepolt0004" x="7189" y="3577" width="553" height="696" frameX="0" frameY="0" frameWidth="553" frameHeight="701"/>
+	<SubTexture name="idlepolt0005" x="0" y="4292" width="553" height="696" frameX="0" frameY="0" frameWidth="553" frameHeight="701"/>
+	<SubTexture name="idlepolt0006" x="553" y="4292" width="553" height="696" frameX="0" frameY="0" frameWidth="553" frameHeight="701"/>
+	<SubTexture name="idlepolt0007" x="1106" y="4292" width="553" height="696" frameX="0" frameY="0" frameWidth="553" frameHeight="701"/>
+	<SubTexture name="idlepolt0008" x="1659" y="4292" width="553" height="696" frameX="0" frameY="0" frameWidth="553" frameHeight="701"/>
+	<SubTexture name="idlepolt0009" x="2212" y="4292" width="553" height="696" frameX="0" frameY="0" frameWidth="553" frameHeight="701"/>
+	<SubTexture name="idlepolt0010" x="2765" y="4292" width="553" height="696" frameX="0" frameY="0" frameWidth="553" frameHeight="701"/>
+	<SubTexture name="idlepolt0011" x="3318" y="4292" width="553" height="696" frameX="0" frameY="0" frameWidth="553" frameHeight="701"/>
+	<SubTexture name="idlepolt0012" x="3871" y="4292" width="553" height="696" frameX="0" frameY="0" frameWidth="553" frameHeight="701"/>
+	<SubTexture name="idlepolt0013" x="4424" y="4292" width="553" height="696" frameX="0" frameY="0" frameWidth="553" frameHeight="701"/>
+	<SubTexture name="leftpolt0000" x="4977" y="4292" width="553" height="696" pivotX="270.45" pivotY="415.2"/>
+	<SubTexture name="leftpolt0001" x="5530" y="4292" width="553" height="696"/>
+	<SubTexture name="leftpolt0002" x="6083" y="4292" width="553" height="696"/>
+	<SubTexture name="leftpolt0003" x="6636" y="4292" width="553" height="696"/>
+	<SubTexture name="leftpolt0004" x="7189" y="4292" width="553" height="696"/>
+	<SubTexture name="leftpolt0005" x="7189" y="4292" width="553" height="696"/>
+	<SubTexture name="leftpolt0006" x="7189" y="4292" width="553" height="696"/>
+	<SubTexture name="leftpolt0007" x="7189" y="4292" width="553" height="696"/>
+	<SubTexture name="leftpolt0008" x="7189" y="4292" width="553" height="696"/>
+	<SubTexture name="leftpolt0009" x="7189" y="4292" width="553" height="696"/>
+	<SubTexture name="leftpolt0010" x="7189" y="4292" width="553" height="696"/>
+	<SubTexture name="leftpolt0011" x="7189" y="4292" width="553" height="696"/>
+	<SubTexture name="leftpolt0012" x="7189" y="4292" width="553" height="696"/>
+	<SubTexture name="leftpolt0013" x="7189" y="4292" width="553" height="696"/>
+	<SubTexture name="rightpolt0000" x="0" y="4988" width="553" height="696" pivotX="270.45" pivotY="415.2"/>
+	<SubTexture name="rightpolt0001" x="553" y="4988" width="553" height="696"/>
+	<SubTexture name="rightpolt0002" x="1106" y="4988" width="553" height="696"/>
+	<SubTexture name="rightpolt0003" x="1659" y="4988" width="553" height="696"/>
+	<SubTexture name="rightpolt0004" x="2212" y="4988" width="553" height="696"/>
+	<SubTexture name="rightpolt0005" x="2212" y="4988" width="553" height="696"/>
+	<SubTexture name="rightpolt0006" x="2212" y="4988" width="553" height="696"/>
+	<SubTexture name="rightpolt0007" x="2212" y="4988" width="553" height="696"/>
+	<SubTexture name="rightpolt0008" x="2212" y="4988" width="553" height="696"/>
+	<SubTexture name="rightpolt0009" x="2212" y="4988" width="553" height="696"/>
+	<SubTexture name="rightpolt0010" x="2212" y="4988" width="553" height="696"/>
+	<SubTexture name="rightpolt0011" x="2212" y="4988" width="553" height="696"/>
+	<SubTexture name="rightpolt0012" x="2212" y="4988" width="553" height="696"/>
+	<SubTexture name="rightpolt0013" x="2212" y="4988" width="553" height="696"/>
+	<SubTexture name="uppolt0000" x="2765" y="4988" width="553" height="696" pivotX="270.45" pivotY="415.2"/>
+	<SubTexture name="uppolt0001" x="3318" y="4988" width="553" height="696"/>
+	<SubTexture name="uppolt0002" x="3871" y="4988" width="553" height="696"/>
+	<SubTexture name="uppolt0003" x="4424" y="4988" width="553" height="696"/>
+	<SubTexture name="uppolt0004" x="4977" y="4988" width="553" height="696"/>
+	<SubTexture name="uppolt0005" x="5530" y="4988" width="553" height="696"/>
+	<SubTexture name="uppolt0006" x="6083" y="4988" width="553" height="696"/>
+	<SubTexture name="uppolt0007" x="6636" y="4988" width="553" height="696"/>
+	<SubTexture name="uppolt0008" x="4977" y="4988" width="553" height="696"/>
+	<SubTexture name="uppolt0009" x="5530" y="4988" width="553" height="696"/>
+	<SubTexture name="uppolt0010" x="6083" y="4988" width="553" height="696"/>
+	<SubTexture name="uppolt0011" x="6636" y="4988" width="553" height="696"/>
+	<SubTexture name="uppolt0012" x="4977" y="4988" width="553" height="696"/>
+	<SubTexture name="uppolt0013" x="5530" y="4988" width="553" height="696"/>
+</TextureAtlas>

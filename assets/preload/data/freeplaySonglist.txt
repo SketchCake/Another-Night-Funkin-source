@@ -1,0 +1,7 @@
+Tutorial:voice:1
+Boopbeepo:dee:1
+Shiny:dee:1
+Warfare:dee:1
+Paranormal:polter:2
+Phantomised:poltersecond:2
+Poltergeist:polterfinal:2

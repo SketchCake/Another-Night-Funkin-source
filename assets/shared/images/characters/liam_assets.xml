@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="liam_assets.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name=":)0000" x="0" y="0" width="505" height="899" pivotX="251.9" pivotY="465.95"/>
+	<SubTexture name=":)0001" x="505" y="0" width="505" height="899"/>
+	<SubTexture name=":)0002" x="1010" y="0" width="505" height="899"/>
+	<SubTexture name=":)0003" x="1515" y="0" width="505" height="899"/>
+	<SubTexture name=":)0004" x="1515" y="0" width="505" height="899"/>
+	<SubTexture name=":)0005" x="1010" y="0" width="505" height="899"/>
+	<SubTexture name=":)0006" x="1010" y="0" width="505" height="899"/>
+	<SubTexture name=":)0007" x="1515" y="0" width="505" height="899"/>
+	<SubTexture name=":)0008" x="1515" y="0" width="505" height="899"/>
+	<SubTexture name=":)0009" x="1010" y="0" width="505" height="899"/>
+	<SubTexture name=":)0010" x="1010" y="0" width="505" height="899"/>
+	<SubTexture name=":)0011" x="1515" y="0" width="505" height="899"/>
+	<SubTexture name=":)0012" x="1515" y="0" width="505" height="899"/>
+	<SubTexture name=":)0013" x="1010" y="0" width="505" height="899"/>
+	<SubTexture name=":)0014" x="1010" y="0" width="505" height="899"/>
+	<SubTexture name="downliam0000" x="2020" y="0" width="505" height="899" pivotX="251.9" pivotY="465.95"/>
+	<SubTexture name="downliam0001" x="2525" y="0" width="505" height="899"/>
+	<SubTexture name="downliam0002" x="3030" y="0" width="505" height="899"/>
+	<SubTexture name="downliam0003" x="3535" y="0" width="505" height="899"/>
+	<SubTexture name="downliam0004" x="3535" y="0" width="505" height="899"/>
+	<SubTexture name="downliam0005" x="3030" y="0" width="505" height="899"/>
+	<SubTexture name="downliam0006" x="3030" y="0" width="505" height="899"/>
+	<SubTexture name="downliam0007" x="3535" y="0" width="505" height="899"/>
+	<SubTexture name="downliam0008" x="3535" y="0" width="505" height="899"/>
+	<SubTexture name="downliam0009" x="3030" y="0" width="505" height="899"/>
+	<SubTexture name="downliam0010" x="3030" y="0" width="505" height="899"/>
+	<SubTexture name="downliam0011" x="3535" y="0" width="505" height="899"/>
+	<SubTexture name="downliam0012" x="3535" y="0" width="505" height="899"/>
+	<SubTexture name="downliam0013" x="3030" y="0" width="505" height="899"/>
+	<SubTexture name="downliam0014" x="3030" y="0" width="505" height="899"/>
+	<SubTexture name="idleliam0000" x="4040" y="0" width="505" height="899" pivotX="251.9" pivotY="465.95"/>
+	<SubTexture name="idleliam0001" x="4040" y="0" width="505" height="899"/>
+	<SubTexture name="idleliam0002" x="4545" y="0" width="505" height="899"/>
+	<SubTexture name="idleliam0003" x="4545" y="0" width="505" height="899"/>
+	<SubTexture name="idleliam0004" x="5050" y="0" width="505" height="899"/>
+	<SubTexture name="idleliam0005" x="5050" y="0" width="505" height="899"/>
+	<SubTexture name="idleliam0006" x="5555" y="0" width="505" height="899"/>
+	<SubTexture name="idleliam0007" x="5555" y="0" width="505" height="899"/>
+	<SubTexture name="idleliam0008" x="6060" y="0" width="505" height="899"/>
+	<SubTexture name="idleliam0009" x="6060" y="0" width="505" height="899"/>
+	<SubTexture name="idleliam0010" x="6565" y="0" width="505" height="899"/>
+	<SubTexture name="idleliam0011" x="6565" y="0" width="505" height="899"/>
+	<SubTexture name="idleliam0012" x="7070" y="0" width="505" height="899"/>
+	<SubTexture name="idleliam0013" x="7575" y="0" width="505" height="899"/>
+	<SubTexture name="idleliam0014" x="0" y="899" width="505" height="899"/>
+	<SubTexture name="leftliam0000" x="505" y="899" width="505" height="899" pivotX="251.9" pivotY="465.95"/>
+	<SubTexture name="leftliam0001" x="1010" y="899" width="505" height="899"/>
+	<SubTexture name="leftliam0002" x="1515" y="899" width="505" height="899"/>
+	<SubTexture name="leftliam0003" x="2020" y="899" width="505" height="899"/>
+	<SubTexture name="leftliam0004" x="2525" y="899" width="505" height="899"/>
+	<SubTexture name="leftliam0005" x="3030" y="899" width="505" height="899"/>
+	<SubTexture name="leftliam0006" x="3030" y="899" width="505" height="899"/>
+	<SubTexture name="leftliam0007" x="2525" y="899" width="505" height="899"/>
+	<SubTexture name="leftliam0008" x="2525" y="899" width="505" height="899"/>
+	<SubTexture name="leftliam0009" x="3030" y="899" width="505" height="899"/>
+	<SubTexture name="leftliam0010" x="3030" y="899" width="505" height="899"/>
+	<SubTexture name="leftliam0011" x="2525" y="899" width="505" height="899"/>
+	<SubTexture name="leftliam0012" x="2525" y="899" width="505" height="899"/>
+	<SubTexture name="leftliam0013" x="3030" y="899" width="505" height="899"/>
+	<SubTexture name="leftliam0014" x="3030" y="899" width="505" height="899"/>
+	<SubTexture name="rightliam0000" x="3535" y="899" width="505" height="899" pivotX="251.9" pivotY="465.95"/>
+	<SubTexture name="rightliam0001" x="4040" y="899" width="505" height="899"/>
+	<SubTexture name="rightliam0002" x="4545" y="899" width="505" height="899"/>
+	<SubTexture name="rightliam0003" x="5050" y="899" width="505" height="899"/>
+	<SubTexture name="rightliam0004" x="5555" y="899" width="505" height="899"/>
+	<SubTexture name="rightliam0005" x="6060" y="899" width="505" height="899"/>
+	<SubTexture name="rightliam0006" x="6060" y="899" width="505" height="899"/>
+	<SubTexture name="rightliam0007" x="5555" y="899" width="505" height="899"/>
+	<SubTexture name="rightliam0008" x="5555" y="899" width="505" height="899"/>
+	<SubTexture name="rightliam0009" x="6060" y="899" width="505" height="899"/>
+	<SubTexture name="rightliam0010" x="6060" y="899" width="505" height="899"/>
+	<SubTexture name="rightliam0011" x="5555" y="899" width="505" height="899"/>
+	<SubTexture name="rightliam0012" x="5555" y="899" width="505" height="899"/>
+	<SubTexture name="rightliam0013" x="6060" y="899" width="505" height="899"/>
+	<SubTexture name="rightliam0014" x="6060" y="899" width="505" height="899"/>
+	<SubTexture name="upliam0000" x="6565" y="899" width="505" height="899" pivotX="251.9" pivotY="465.95"/>
+	<SubTexture name="upliam0001" x="7070" y="899" width="505" height="899"/>
+	<SubTexture name="upliam0002" x="7575" y="899" width="505" height="899"/>
+	<SubTexture name="upliam0003" x="0" y="1798" width="505" height="899"/>
+	<SubTexture name="upliam0004" x="505" y="1798" width="505" height="899"/>
+	<SubTexture name="upliam0005" x="1010" y="1798" width="505" height="899"/>
+	<SubTexture name="upliam0006" x="1010" y="1798" width="505" height="899"/>
+	<SubTexture name="upliam0007" x="505" y="1798" width="505" height="899"/>
+	<SubTexture name="upliam0008" x="505" y="1798" width="505" height="899"/>
+	<SubTexture name="upliam0009" x="1010" y="1798" width="505" height="899"/>
+	<SubTexture name="upliam0010" x="1010" y="1798" width="505" height="899"/>
+	<SubTexture name="upliam0011" x="505" y="1798" width="505" height="899"/>
+	<SubTexture name="upliam0012" x="505" y="1798" width="505" height="899"/>
+	<SubTexture name="upliam0013" x="1010" y="1798" width="505" height="899"/>
+	<SubTexture name="upliam0014" x="1010" y="1798" width="505" height="899"/>
+</TextureAtlas>

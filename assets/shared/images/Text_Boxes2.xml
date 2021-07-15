@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Text_Boxes2.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="textbox0000" x="0" y="0" width="1284" height="748" pivotX="642" pivotY="374"/>
+	<SubTexture name="textbox0001" x="0" y="0" width="1284" height="748"/>
+	<SubTexture name="textbox0002" x="1284" y="0" width="1284" height="748"/>
+	<SubTexture name="textbox0003" x="1284" y="0" width="1284" height="748"/>
+	<SubTexture name="textbox0004" x="2568" y="0" width="1284" height="748"/>
+	<SubTexture name="textbox0005" x="2568" y="0" width="1284" height="748"/>
+	<SubTexture name="textbox0006" x="0" y="748" width="1284" height="748"/>
+	<SubTexture name="textbox0007" x="1284" y="748" width="1284" height="748"/>
+	<SubTexture name="textbox0008" x="2568" y="748" width="1284" height="748"/>
+	<SubTexture name="textbox0009" x="2568" y="748" width="1284" height="748"/>
+	<SubTexture name="textbox0010" x="2568" y="748" width="1284" height="748"/>
+	<SubTexture name="textbox0011" x="2568" y="748" width="1284" height="748"/>
+	<SubTexture name="textbox0012" x="2568" y="748" width="1284" height="748"/>
+	<SubTexture name="textbox0013" x="2568" y="748" width="1284" height="748"/>
+</TextureAtlas>
