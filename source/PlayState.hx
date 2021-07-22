@@ -167,6 +167,7 @@ class PlayState extends MusicBeatState
 	var upperBoppers:FlxSprite;
 	var bottomBoppers:FlxSprite;
 	var santa:FlxSprite;
+	var boppybois:FlxSprite;
 
 	var fc:Bool = true;
 
@@ -895,6 +896,26 @@ class PlayState extends MusicBeatState
 					stageFront.active = false;
 					add(stageFront);
 			}
+			case 'transfer' | 'otherworld' | 'riddle':
+			{
+					defaultCamZoom = 0.94;
+					curStage = 'ship';
+					var stageFront:FlxSprite = new FlxSprite(-350, -25).loadGraphic(Paths.image('ship/back'));
+					stageFront.setGraphicSize(Std.int(stageFront.width * 0.9));
+					stageFront.updateHitbox();
+					stageFront.antialiasing = true;
+					stageFront.scrollFactor.set(1, 1);
+					stageFront.active = false;
+					add(stageFront);
+
+					boppybois = new FlxSprite(0, 100); 
+					boppybois.frames = Paths.getSparrowAtlas('ship/dancing_fucks');
+					boppybois.animation.addByPrefix('idle', 'poger', 24, false);
+					boppybois.setGraphicSize(Std.int(boppybois.width * 1.4));
+					boppybois.antialiasing = true;
+					stageFront.scrollFactor.set(1, 1);
+					add(boppybois);
+			}
 			default:
 			{
 					defaultCamZoom = 0.9;
@@ -1038,6 +1059,13 @@ class PlayState extends MusicBeatState
 				gf.y += 0;
 				dad.x += 250;
 				dad.y += 100;
+			case 'ship':
+				boyfriend.x += 0;
+				boyfriend.y += 0;
+				gf.x -= 140;
+				gf.y -= 40;
+				dad.x -= 100;
+				dad.y += 0;
 		}
 
 		add(gf);
@@ -1135,7 +1163,7 @@ class PlayState extends MusicBeatState
 		add(healthBar);
 
 		// Add Kade Engine watermark
-		kadeEngineWatermark = new FlxText(4,healthBarBG.y + 50,0,SONG.song + " " + (storyDifficulty == 2 ? "Hard" : storyDifficulty == 1 ? "Normal" : "Easy") + (Main.watermarks ? " - KE " + MainMenuState.kadeEngineVer : ""), 16);
+		kadeEngineWatermark = new FlxText(4,healthBarBG.y + 50,0,SONG.song + " " + (storyDifficulty == 2 ? "Hard" : storyDifficulty == 1 ? "True" : "Easy") + (Main.watermarks ? " - KE " + MainMenuState.kadeEngineVer : ""), 16);
 		kadeEngineWatermark.setFormat(Paths.font("vcr.ttf"), 16, FlxColor.WHITE, RIGHT, FlxTextBorderStyle.OUTLINE,FlxColor.BLACK);
 		kadeEngineWatermark.scrollFactor.set();
 		add(kadeEngineWatermark);
@@ -3920,6 +3948,9 @@ class PlayState extends MusicBeatState
 				upperBoppers.animation.play('bop', true);
 				bottomBoppers.animation.play('bop', true);
 				santa.animation.play('idle', true);
+
+			case 'ship':
+				boppybois.animation.play('idle', true);
 
 			case 'limo':
 				grpLimoDancers.forEach(function(dancer:BackgroundDancer)

@@ -316,7 +316,7 @@ class TitleState extends MusicBeatState
 					{
 						trace('outdated lmao! ' + data.trim() + ' != ' + MainMenuState.kadeEngineVer);
 						OutdatedSubState.needVer = data;
-						FlxG.switchState(new OutdatedSubState());
+						FlxG.switchState(new MainMenuState());
 					}
 					else
 					{
@@ -390,10 +390,11 @@ class TitleState extends MusicBeatState
 		switch (curBeat)
 		{
 			case 1:
-				createCoolText(['ninjamuffin99', 'phantomArcade', 'kawaisprite', 'evilsk8er']);
-			// credTextShit.visible = true;
+				createCoolText(['sketchcake', 'dragonslayer', 'voki', 'and faythexx', 'present']);
+			// credTextShit.text += '\npresent...';
+			// credTextShit.addText();
 			case 3:
-				addMoreText('present');
+				addMoreText('the anf team presents');
 			// credTextShit.text += '\npresent...';
 			// credTextShit.addText();
 			case 4:
@@ -434,8 +435,8 @@ class TitleState extends MusicBeatState
 			// credTextShit.text = "Friday";
 			// credTextShit.screenCenter();
 			case 13:
-				addMoreText('Friday');
-			// credTextShit.visible = true;
+				addMoreText('Another');
+				credTextShit.visible = true;
 			case 14:
 				addMoreText('Night');
 			// credTextShit.text += '\nNight';

@@ -5,3 +5,6 @@ Warfare:dee:1
 Paranormal:polter:2
 Phantomised:poltersecond:2
 Poltergeist:polterfinal:2
+Transfer:diz:3
+Otherworld:diz:3
+Riddle:diz:3

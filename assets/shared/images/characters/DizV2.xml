@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="DizV2.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="downdiz0000" x="0" y="0" width="605" height="744" pivotX="295.9" pivotY="368.45"/>
+	<SubTexture name="downdiz0001" x="0" y="0" width="605" height="744"/>
+	<SubTexture name="downdiz0002" x="605" y="0" width="605" height="744"/>
+	<SubTexture name="downdiz0003" x="605" y="0" width="605" height="744"/>
+	<SubTexture name="downdiz0004" x="1210" y="0" width="605" height="744"/>
+	<SubTexture name="downdiz0005" x="1210" y="0" width="605" height="744"/>
+	<SubTexture name="downdiz0006" x="1815" y="0" width="605" height="744"/>
+	<SubTexture name="downdiz0007" x="1815" y="0" width="605" height="744"/>
+	<SubTexture name="downdiz0008" x="1815" y="0" width="605" height="744"/>
+	<SubTexture name="downdiz0009" x="1815" y="0" width="605" height="744"/>
+	<SubTexture name="downdiz0010" x="1815" y="0" width="605" height="744"/>
+	<SubTexture name="downdiz0011" x="1815" y="0" width="605" height="744"/>
+	<SubTexture name="downdiz0012" x="1815" y="0" width="605" height="744"/>
+	<SubTexture name="downdiz0013" x="1815" y="0" width="605" height="744"/>
+	<SubTexture name="idlediz0000" x="2420" y="0" width="605" height="744" pivotX="295.9" pivotY="368.45"/>
+	<SubTexture name="idlediz0001" x="2420" y="0" width="605" height="744"/>
+	<SubTexture name="idlediz0002" x="3025" y="0" width="605" height="744"/>
+	<SubTexture name="idlediz0003" x="3025" y="0" width="605" height="744"/>
+	<SubTexture name="idlediz0004" x="0" y="744" width="605" height="744"/>
+	<SubTexture name="idlediz0005" x="0" y="744" width="605" height="744"/>
+	<SubTexture name="idlediz0006" x="605" y="744" width="605" height="744"/>
+	<SubTexture name="idlediz0007" x="605" y="744" width="605" height="744"/>
+	<SubTexture name="idlediz0008" x="1210" y="744" width="605" height="744"/>
+	<SubTexture name="idlediz0009" x="1210" y="744" width="605" height="744"/>
+	<SubTexture name="idlediz0010" x="1210" y="744" width="605" height="744"/>
+	<SubTexture name="idlediz0011" x="1210" y="744" width="605" height="744"/>
+	<SubTexture name="idlediz0012" x="1210" y="744" width="605" height="744"/>
+	<SubTexture name="idlediz0013" x="1210" y="744" width="605" height="744"/>
+	<SubTexture name="leftdiz0000" x="1815" y="744" width="605" height="744" pivotX="295.9" pivotY="368.45"/>
+	<SubTexture name="leftdiz0001" x="1815" y="744" width="605" height="744"/>
+	<SubTexture name="leftdiz0002" x="2420" y="744" width="605" height="744"/>
+	<SubTexture name="leftdiz0003" x="2420" y="744" width="605" height="744"/>
+	<SubTexture name="leftdiz0004" x="3025" y="744" width="605" height="744"/>
+	<SubTexture name="leftdiz0005" x="3025" y="744" width="605" height="744"/>
+	<SubTexture name="leftdiz0006" x="3025" y="744" width="605" height="744"/>
+	<SubTexture name="leftdiz0007" x="3025" y="744" width="605" height="744"/>
+	<SubTexture name="leftdiz0008" x="3025" y="744" width="605" height="744"/>
+	<SubTexture name="leftdiz0009" x="3025" y="744" width="605" height="744"/>
+	<SubTexture name="leftdiz0010" x="3025" y="744" width="605" height="744"/>
+	<SubTexture name="leftdiz0011" x="3025" y="744" width="605" height="744"/>
+	<SubTexture name="leftdiz0012" x="3025" y="744" width="605" height="744"/>
+	<SubTexture name="leftdiz0013" x="3025" y="744" width="605" height="744"/>
+	<SubTexture name="rightdiz0000" x="0" y="1488" width="605" height="744" pivotX="295.9" pivotY="368.45"/>
+	<SubTexture name="rightdiz0001" x="0" y="1488" width="605" height="744"/>
+	<SubTexture name="rightdiz0002" x="605" y="1488" width="605" height="744"/>
+	<SubTexture name="rightdiz0003" x="605" y="1488" width="605" height="744"/>
+	<SubTexture name="rightdiz0004" x="1210" y="1488" width="605" height="744"/>
+	<SubTexture name="rightdiz0005" x="1210" y="1488" width="605" height="744"/>
+	<SubTexture name="rightdiz0006" x="1210" y="1488" width="605" height="744"/>
+	<SubTexture name="rightdiz0007" x="1210" y="1488" width="605" height="744"/>
+	<SubTexture name="rightdiz0008" x="1210" y="1488" width="605" height="744"/>
+	<SubTexture name="rightdiz0009" x="1210" y="1488" width="605" height="744"/>
+	<SubTexture name="rightdiz0010" x="1210" y="1488" width="605" height="744"/>
+	<SubTexture name="rightdiz0011" x="1210" y="1488" width="605" height="744"/>
+	<SubTexture name="rightdiz0012" x="1210" y="1488" width="605" height="744"/>
+	<SubTexture name="rightdiz0013" x="1210" y="1488" width="605" height="744"/>
+	<SubTexture name="updiz0000" x="1815" y="1488" width="605" height="744" pivotX="295.9" pivotY="368.45"/>
+	<SubTexture name="updiz0001" x="1815" y="1488" width="605" height="744"/>
+	<SubTexture name="updiz0002" x="2420" y="1488" width="605" height="744"/>
+	<SubTexture name="updiz0003" x="2420" y="1488" width="605" height="744"/>
+	<SubTexture name="updiz0004" x="3025" y="1488" width="605" height="744"/>
+	<SubTexture name="updiz0005" x="0" y="2232" width="605" height="744"/>
+	<SubTexture name="updiz0006" x="0" y="2232" width="605" height="744"/>
+	<SubTexture name="updiz0007" x="0" y="2232" width="605" height="744"/>
+	<SubTexture name="updiz0008" x="0" y="2232" width="605" height="744"/>
+	<SubTexture name="updiz0009" x="0" y="2232" width="605" height="744"/>
+	<SubTexture name="updiz0010" x="0" y="2232" width="605" height="744"/>
+	<SubTexture name="updiz0011" x="0" y="2232" width="605" height="744"/>
+	<SubTexture name="updiz0012" x="0" y="2232" width="605" height="744"/>
+	<SubTexture name="updiz0013" x="0" y="2232" width="605" height="744"/>
+</TextureAtlas>

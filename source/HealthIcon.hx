@@ -42,6 +42,7 @@ class HealthIcon extends FlxSprite
 		animation.add('poltersecond', [28, 29], 0, false, isPlayer);
 		animation.add('polterfinal', [30, 31], 0, false, isPlayer);
 		animation.add('wat', [32, 33], 0, false, isPlayer);
+		animation.add('diz', [34, 35], 0, false, isPlayer);
 		animation.add('voice', [45, 45], 0, false, isPlayer);
 		animation.play(char);
 		switch(char){

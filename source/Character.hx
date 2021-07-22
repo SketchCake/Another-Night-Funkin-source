@@ -611,6 +611,23 @@ class Character extends FlxSprite
 				addOffset("singDOWN");
 
 				playAnim('idle');
+
+			case 'diz':
+				tex = Paths.getSparrowAtlas('characters/DizV2');
+				frames = tex;
+				animation.addByPrefix('idle', 'idlediz', 24, false);
+				animation.addByPrefix('singUP', 'updiz', 24, false);
+				animation.addByPrefix('singDOWN', 'downdiz', 24, false);
+				animation.addByPrefix('singLEFT', 'leftdiz', 24, false);
+				animation.addByPrefix('singRIGHT', 'rightdiz', 24, false);
+
+				addOffset('idle');
+				addOffset("singUP");
+				addOffset("singRIGHT");
+				addOffset("singLEFT");
+				addOffset("singDOWN");
+
+				playAnim('idle');
 			
 		}
 

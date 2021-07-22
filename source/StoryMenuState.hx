@@ -26,7 +26,8 @@ class StoryMenuState extends MusicBeatState
 	var weekData:Array<Dynamic> = [
 		['Tutorial'],
 		['Boopbeepo', 'Shiny', 'Warfare'],
-		['Paranormal', 'Phantomised', 'Poltergeist']
+		['Paranormal', 'Phantomised', 'Poltergeist'],
+		['Transfer', 'Otherworld', 'Riddle']
 	];
 	var curDifficulty:Int = 1;
 
@@ -35,13 +36,15 @@ class StoryMenuState extends MusicBeatState
 	var weekCharacters:Array<Dynamic> = [
 		['', 'bf', 'gf'],
 		['dee', 'bf', 'gf'],
-		['polt', 'bf', 'gf']
+		['polt', 'bf', 'gf'],
+		['', 'bf', 'gf']
 	];
 
 	var weekNames:Array<String> = [
 		"How to Funk",
 		"Forest Funk",
-		"Ghoulish Groove"
+		"Ghoulish Groove",
+		"Spaceside Singing"
 	];
 
 	var txtWeekTitle:FlxText;
