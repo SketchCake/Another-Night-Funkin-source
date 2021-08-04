@@ -22,10 +22,11 @@ class CharacterSetting
 class MenuCharacter extends FlxSprite
 {
 	private static var settings:Map<String, CharacterSetting> = [
-		'bf' => new CharacterSetting(0, -60, 1.0, true),
-		'gf' => new CharacterSetting(50, 20, 2.0, true),
-		'dee' => new CharacterSetting(-50, 0),
-		'polt' => new CharacterSetting(-50, 0),
+		'bf' => new CharacterSetting(-70, 0, 2.0, true),
+		'gf' => new CharacterSetting(-50, 20, 2.0, true),
+		'dee' => new CharacterSetting(-90, -30, 0.7, true),
+		'polter' => new CharacterSetting(-90, -30, 1.0, true),
+		'diz' => new CharacterSetting(-120, -40, 0.45, true)
 	];
 
 	private var flipped:Bool = false;
@@ -37,13 +38,14 @@ class MenuCharacter extends FlxSprite
 
 		antialiasing = true;
 
-		frames = Paths.getSparrowAtlas('campaign_menu_UI_characters');
+		frames = Paths.getSparrowAtlas('CampaignUI');
 
-		animation.addByPrefix('bf', "BF idle dance white", 24);
-		animation.addByPrefix('bfConfirm', 'BF HEY!!', 24, false);
-		animation.addByPrefix('gf', "GF Dancing Beat WHITE", 24);
-		animation.addByPrefix('dee', "idleD", 24);
-		animation.addByPrefix('polt', "idlepolt", 24);
+		animation.addByPrefix('bf', "BFSymbol", 24);
+		animation.addByPrefix('bfConfirm', 'confirmBFsymbol', 24, false);
+		animation.addByPrefix('gf', "GFSymbol", 24);
+		animation.addByPrefix('dee', "DeeSymbol", 24);
+		animation.addByPrefix('polter', "PolterSymbol", 24);
+		animation.addByPrefix('diz', "DizSymbol", 24);
 
 		setGraphicSize(Std.int(width * scale));
 		updateHitbox();

@@ -36,6 +36,9 @@ class DialogueBox extends FlxSpriteGroup
 	var darkportraitpolt:FlxSprite;
 	var demon:FlxSprite;
 	var demonaway:FlxSprite;
+	var diz:FlxSprite;
+	var diz2:FlxSprite;
+	var dizaway:FlxSprite;
 
 	var handSelect:FlxSprite;
 	var bgFade:FlxSprite;
@@ -101,6 +104,16 @@ class DialogueBox extends FlxSpriteGroup
 			case 'poltergeist':
 				hasDialog = true;
 				box.frames = Paths.getSparrowAtlas('textboxes');
+				box.animation.addByPrefix('normalOpen', 'textbox', 24, false);
+				box.animation.addByIndices('normal', 'textbox', [9], "", 24);
+			case 'transfer':
+				hasDialog = true;
+				box.frames = Paths.getSparrowAtlas('diztext');
+				box.animation.addByPrefix('normalOpen', 'textbox', 24, false);
+				box.animation.addByIndices('normal', 'textbox', [9], "", 24);
+			case 'riddle':
+				hasDialog = true;
+				box.frames = Paths.getSparrowAtlas('diztext');
 				box.animation.addByPrefix('normalOpen', 'textbox', 24, false);
 				box.animation.addByIndices('normal', 'textbox', [9], "", 24);
 		}
@@ -174,6 +187,30 @@ class DialogueBox extends FlxSpriteGroup
 			add(demonaway);
 			demonaway.visible = false;
 
+			diz = new FlxSprite(0, 48);
+			diz.frames = Paths.getSparrowAtlas('text/diz1');
+			diz.animation.addByPrefix('enter', 'textbox', 24, false);
+			diz.updateHitbox();
+			diz.scrollFactor.set();
+			add(diz);
+			diz.visible = false;
+
+			diz2 = new FlxSprite(0, 48);
+			diz2.frames = Paths.getSparrowAtlas('text/diz2');
+			diz2.animation.addByPrefix('enter', 'textbox', 24, false);
+			diz2.updateHitbox();
+			diz2.scrollFactor.set();
+			add(diz2);
+			diz2.visible = false;
+
+			dizaway = new FlxSprite(0, 48);
+			dizaway.frames = Paths.getSparrowAtlas('text/dizaway');
+			dizaway.animation.addByPrefix('enter', 'textbox', 24, false);
+			dizaway.updateHitbox();
+			dizaway.scrollFactor.set();
+			add(dizaway);
+			dizaway.visible = false;
+
 		box.animation.play('normalOpen');
 		box.updateHitbox();
 		add(box);	
@@ -229,6 +266,16 @@ class DialogueBox extends FlxSpriteGroup
 		{
 			swagDialogue.color = FlxColor.WHITE;
 			dropText.color = 0xFFFF1FAD;
+		}
+		if (PlayState.SONG.song.toLowerCase() == 'transfer')
+		{
+			swagDialogue.color = FlxColor.WHITE;
+			dropText.color = 0xFF1a7063;
+		}
+		if (PlayState.SONG.song.toLowerCase() == 'riddle')
+		{
+			swagDialogue.color = FlxColor.WHITE;
+			dropText.color = 0xFF1a7063;
 		}
 
 		dropText.text = swagDialogue.text;
@@ -391,6 +438,55 @@ class DialogueBox extends FlxSpriteGroup
 					portraitRight.visible = true;
 					portraitRight.animation.play('enter');
 					demonaway.animation.play('enter');
+				}
+			case 'diz':
+				portraitRight.visible = false;
+				darkportrait.visible = true;
+				darkportraitpolt.visible = false;
+				portraitLeft2.visible = false;
+				portraitLeft.visible = false;
+				portraitLeft3.visible = false;		
+				demonaway.visible = false;
+				dizaway.visible = false;
+				diz2.visible = false;
+				if (!portraitLeft.visible)
+				{
+					diz.visible = true;
+					diz.animation.play('enter');
+					darkportrait.animation.play('enter');
+				}
+			case 'diz2':
+				portraitRight.visible = false;
+				darkportrait.visible = true;
+				darkportraitpolt.visible = false;
+				portraitLeft2.visible = false;
+				portraitLeft.visible = false;
+				portraitLeft3.visible = false;		
+				demonaway.visible = false;
+				dizaway.visible = false;
+				diz.visible = false;
+				if (!portraitLeft.visible)
+				{
+					diz2.visible = true;
+					diz2.animation.play('enter');
+					darkportrait.animation.play('enter');
+				}
+			case 'bfdiz':
+				portraitLeft.visible = false;
+				darkportrait.visible = false;
+				darkportraitpolt.visible = false;
+				portraitLeft2.visible = false;
+				portraitLeft3.visible = false;
+				demon.visible = false;
+				demonaway.visible = false;
+				dizaway.visible = true;
+				diz.visible = false;
+				diz2.visible = false;
+				if (!portraitRight.visible)
+				{
+					portraitRight.visible = true;
+					portraitRight.animation.play('enter');
+					dizaway.animation.play('enter');
 				}
 		}
 	}
